@@ -25,17 +25,17 @@ A list of quantum stuff with Q in their names
 
 
 ## Qompanies
-- [A**Q**T](https://www.aqt.eu/)🇦🇹  - Buiding QPUs with ions. 💤  
+- [A**Q**T](https://www.aqt.eu/) 🇦🇹  - Buiding QPUs with ions. 💤  
 - [Classi**Q**](https://www.classiq.io/) 🇮🇱  - Programming QPUs. 💱 
 - [Dira**Q**](https://www.diraq.com/) 🇦🇺  - Building QPUs with cold silicon. 🧑‍🔬 💱 🐨 
-- [Ele**Q**tron](https://eleqtron.com/)🇩🇪 - Building QPUs with ions.⚛️💱 
+- [Ele**Q**tron](https://eleqtron.com/) 🇩🇪 - Building QPUs with ions. ⚛️💱 
 - [Infle**Q**tion](https://infleqtion.com/) 🇺🇸 - Building quantum stuff with atoms. 🚀
 - [Ion**Q**](https://www.ionq.com/) 🇺🇸 - Building QPUs with ions. 🗿
 - [I**Q**M](https://iqm.tech/) 🇫🇮 - Building QPUs with cold electrons. 🧠 
 - [Pas**Q**al](https://www.pasqal.com/) 🇫🇷 - Building QPUs with atoms. 🧑‍🔬 💱
-- [Psi**Q**uantum](https://www.psiquantum.com/)🇺🇸 - Building QPUs with photons. 💤⚛️ 
+- [Psi**Q**uantum](https://www.psiquantum.com/) 🇺🇸 - Building QPUs with photons. 💤⚛️ 
 - [Plan**Q**C](https://planqc.eu) 🇩🇪 - Building QPUs with (different) atoms. 🧑‍🔬 
-- [**Q**-CTRL](https://q-ctrl.com/)🇦🇹 - Programming QPUs. 🗿🐨 
+- [**Q**-CTRL](https://q-ctrl.com/) 🇦🇹 - Programming QPUs. 🗿🐨 
 - [**Q**perfct](https://www.qperfect.io/) 🇫🇷 - Programming QPUs. 🚀 
 - [**Q**raken **Q**uantum](https://www.qraken-quantum.com) 🇦🇹  - Linking quantum stuff with photons.🐈💞💤 
 - [**Q**sensato](https://qsensato.com/) 🇮🇹 - Sensing stuff with atoms. 🗿  
@@ -43,8 +43,8 @@ A list of quantum stuff with Q in their names
 - [**Q**uera](https://www.quera.com/) 🇺🇸 - Building QPUs with atoms. 🚀
 - [**Q**unnect](https://www.qunnect.inc/) 🇺🇸  - Linking quantum stuff. 🗣️ 
 - [**Q**uobly](https://www.quobly.io/) 🇫🇷 - Building QPUs with cold silicon. 🧠 
-- [**Q**uokka **Q**uantum](https://www.quokkacomputing.com/)🇦🇺  - Selling QPUs moqups.🐈💤🐨💞 
-- [Vi**Q**thor](https://viqthor.com/) 🇫🇷 - Dealing with MW photons.🧑 
+- [**Q**uokka **Q**uantum](https://www.quokkacomputing.com/) 🇦🇺  - Selling QPUs moqups. 🐈💤🐨💞 
+- [Vi**Q**thor](https://viqthor.com/) 🇫🇷 - Dealing with MW photons. 🧑 
 - [Welin**Q**](https://www.welinq.fr/) 🇫🇷 - Linking QPUs with photons and atoms. 🗣️
 
 ## ProjeQts 
