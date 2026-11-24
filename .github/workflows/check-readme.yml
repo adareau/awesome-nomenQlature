@@ -1,0 +1,16 @@
+name: Check README
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Check that README.md matches the CSV files
+        run: python data/generate_lists.py --check
