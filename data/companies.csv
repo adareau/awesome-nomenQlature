@@ -1,5 +1,5 @@
 name,url,flag,country,description,emojis
-AQT,https://www.aqt.eu/,🇦🇹,AT,Buiding QPUs with ions,💤
+AQT,https://www.aqt.eu/,🇦🇹,AT,Building QPUs with ions,💤
 ClassiQ,https://www.classiq.io/,🇮🇱,IL,Programming QPUs,💱
 DiraQ,https://www.diraq.com/,🇦🇺,AU,Building QPUs with cold silicon,🧑‍🔬 💱 🐨
 EleQtron,https://eleqtron.com/,🇩🇪,DE,Building QPUs with ions,⚛️ 💱
@@ -9,12 +9,12 @@ IQM,https://iqm.tech/,🇫🇮,FI,Building QPUs with cold electrons,🧠
 PasQal,https://www.pasqal.com/,🇫🇷,FR,Building QPUs with atoms,🧑‍🔬 💱
 PsiQuantum,https://www.psiquantum.com/,🇺🇸,US,Building QPUs with photons,💤 ⚛️
 PlanQC,https://planqc.eu,🇩🇪,DE,Building QPUs with (different) atoms,🧑‍🔬
-Q-CTRL,https://q-ctrl.com/,🇦🇹,AT,Programming QPUs,🗿 🐨
-Qperfct,https://www.qperfect.io/,🇫🇷,FR,Programming QPUs,🚀
+Q-CTRL,https://q-ctrl.com/,🇦🇺,AU,Programming QPUs,🗿 🐨
+QPerfect,https://www.qperfect.io/,🇫🇷,FR,Programming QPUs,🚀
 Qraken Quantum,https://www.qraken-quantum.com,🇦🇹,AT,Linking quantum stuff with photons,🐈 💞 💤
 Qsensato,https://qsensato.com/,🇮🇹,IT,Sensing stuff with atoms,🗿
 Quandela,https://www.quandela.com,🇫🇷,FR,Building QPUs with photons,🧑‍🔬
-Quera,https://www.quera.com/,🇺🇸,US,Building QPUs with atoms,🚀
+QuEra,https://www.quera.com/,🇺🇸,US,Building QPUs with atoms,🚀
 Qunnect,https://www.qunnect.inc/,🇺🇸,US,Linking quantum stuff,🗣️
 Quobly,https://www.quobly.io/,🇫🇷,FR,Building QPUs with cold silicon,🧠
 Quokka Quantum,https://www.quokkacomputing.com/,🇦🇺,AU,Selling QPUs moqups,🐈 💤 🐨 💞
