@@ -67,7 +67,7 @@ def validate(filename, rows, legend):
 
 def format_entry(row):
     name = to_markdown_name(row["name"])
-    emojis = "|".join(row["emojis"].split())
+    emojis = " ⟩ ".join(row["emojis"].split()) + " ⟩ "
     return f"- [{name}]({row['url']}) {row['flag']} - {row['description']}. {emojis}".rstrip()
 
 
